@@ -23,8 +23,8 @@
 
 river('uruguai',1770,['santa catarina','rio grande do sul']).
 river('ijuí',300,['rio grande do sul']).
-river('jacuí',300,['rio grande do sul']).
-river('guaíba',300,['rio grande do sul']).
+river('jacuí',790,['rio grande do sul']).
+lake('guaíba',300,['rio grande do sul']).
 river('caí',300,['rio grande do sul']).
 river('taquari',300,['rio grande do sul']).
 river('ibicuí',300,['rio grande do sul']).
