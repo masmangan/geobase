@@ -23,5 +23,16 @@
 
 river('uruguai',1770,['santa catarina','rio grande do sul']).
 river('ijuí',300,['rio grande do sul']).
+river('jacuí',300,['rio grande do sul']).
+river('guaíba',300,['rio grande do sul']).
+river('caí',300,['rio grande do sul']).
+river('taquari',300,['rio grande do sul']).
+river('ibicuí',300,['rio grande do sul']).
+river('pelotas',300,['rio grande do sul']).
+river('camaquã',300,['rio grande do sul']).
+river('sinos',300,['rio grande do sul']).
+river('vacacaí',300,['rio grande do sul']).
+
+
 
 country('br',209129000,8515767).
