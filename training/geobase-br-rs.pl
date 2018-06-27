@@ -21,17 +21,18 @@
 % lake(name, area, [states it is in])
 
 
-river('uruguai',1770,['santa catarina','rio grande do sul']).
-river('ijuí',300,['rio grande do sul']).
+river('uruguai',1838,['santa catarina','rio grande do sul']).
 river('jacuí',790,['rio grande do sul']).
-lake('guaíba',300,['rio grande do sul']).
-river('caí',300,['rio grande do sul']).
-river('taquari',300,['rio grande do sul']).
-river('ibicuí',300,['rio grande do sul']).
-river('pelotas',300,['rio grande do sul']).
-river('camaquã',300,['rio grande do sul']).
-river('sinos',300,['rio grande do sul']).
-river('vacacaí',300,['rio grande do sul']).
+river('ijuí',542,['rio grande do sul']).
+river('taquari',530,['rio grande do sul']).
+river('pelotas',437,['rio grande do sul']).
+river('quaraí',340,['rio grande do sul']).
+river('ibicuí',290,['rio grande do sul']).
+river('caí',285,['rio grande do sul']).
+river('jaguarão',270,['rio grande do sul']).
+river('camaquã',430,['rio grande do sul']).
+river('sinos',190,['rio grande do sul']).
+river('vacacaí',330,['rio grande do sul']).
 
 
 
